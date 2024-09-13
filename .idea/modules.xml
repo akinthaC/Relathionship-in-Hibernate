@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Eager-Feching.iml" filepath="$PROJECT_DIR$/Eager-Feching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HQL.iml" filepath="$PROJECT_DIR$/HQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Many-to-many-relastionship.iml" filepath="$PROJECT_DIR$/Many-to-many-relastionship.iml" />
+      <module fileurl="file://$PROJECT_DIR$/One-to-many-relationship.iml" filepath="$PROJECT_DIR$/One-to-many-relationship.iml" />
+      <module fileurl="file://$PROJECT_DIR$/One-to-one-relastionship.iml" filepath="$PROJECT_DIR$/One-to-one-relastionship.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Relathionship-in-Hibernate.iml" filepath="$PROJECT_DIR$/Relathionship-in-Hibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SQL.iml" filepath="$PROJECT_DIR$/SQL.iml" />
+    </modules>
+  </component>
+</project>
